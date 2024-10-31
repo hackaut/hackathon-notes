@@ -43,7 +43,7 @@
  
  #### ![🚕](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)By Taxi/ Cab
  
- > App-Based Cabs: You can book an app-based cab from Kolkata or any nearby city directly to JIS College of Engineering. This is more convenient but costlier than other public transport options. Here are some options you can look at, though OLA operates in West Bengal, we suggest not to book cabs as mostly they will cancel your ride/ overcharge.
+ > App-Based Cabs: You can book an app-based cab from Kolkata or any nearby city directly to Maulana Abul Kalam Azad University Of Technology, West Bengal. This is more convenient but costlier than other public transport options. Here are some options you can look at, though OLA operates in West Bengal, we suggest not to book cabs as mostly they will cancel your ride/ overcharge.
  
  ![🗺️](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
  
