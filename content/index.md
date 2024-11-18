@@ -13,4 +13,6 @@ For more details and information checkout
 - [[Details]]
 - [[Submission guidlines]]
 - [[Tracks]]
+- [[Faq and queries]]
+- [[Schedule]]
 - [[Travel Guide]]
